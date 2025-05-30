@@ -19,4 +19,4 @@
 - Si tu instancia de SQL Server no es `localhost\SQLEXPRESS`, tendrás que cambiar el nombre en la cadena de conexión.
 - Puedes personalizar el proyecto o modificar el script SQL para adaptarlo a tus necesidades.
 
-![Mostrar Usuarios](capturas/Mostrar_Usuarios.png)
+![Mostrar Usuarios](Capturas/Mostrar_Usuarios.png)
